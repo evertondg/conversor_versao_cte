@@ -1,0 +1,17 @@
+{
+  "name": "morada",
+  "version": "1.0.0",
+  "description": "MVP de Conversor de CTE's v4 para v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "converter": "node index.js"
+  },
+  "author": "evertondg@hotmail.com.br",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "xml-formatter": "^3.4.1",
+    "xml2js": "^0.6.2"
+  }
+}
